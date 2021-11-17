@@ -6,13 +6,13 @@ Run through the terminal using 'CRPG *savename*'
 Use the arrowkeys to move the cursor and character, Enter to select when applicable
 
 # Symbol Guide:
-* --> Your Character
-% --> Town (Enter to return to menu)
-E --> Enemies (Level scales to the player)
-$ --> Random item (Gold, Potion, Super Potion)
-X --> Tree (Cannot Pass)
-~ --> Water (Cannot Pass)
-. --> Footstep (Aesthetic)
+ * --> Your Character
+ % --> Town (Enter to return to menu)
+ E --> Enemies (Level scales to the player)
+ $ --> Random item (Gold, Potion, Super Potion)
+ X --> Tree (Cannot Pass)
+ ~ --> Water (Cannot Pass)
+ . --> Footstep (Aesthetic)
 
 # Notes:
 Player Loses 5 gold on death
