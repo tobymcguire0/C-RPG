@@ -23,8 +23,11 @@ Use the arrowkeys to move the cursor and character, Enter to select when applica
 
 ## Notes:
 Player Loses 5 gold on death
+
 Attacks deal damage from [1,STR level]
+
 Potions heal 10 up to max HP, but Super Potions can overheal
+
 Health is set to max on level up
 
 ## Bugs:
