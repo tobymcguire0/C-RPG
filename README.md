@@ -1,5 +1,5 @@
 # C-RPG
-I Created an RPG from scratch in C using basic libraries
+I created an RPG from scratch in C using basic libraries
 
 This project was created on linux a system with gcc installed and run in a terminal. It will likely work on other systems as long as the last two conditions are met but I haven't tested so I can't say for sure.
 
